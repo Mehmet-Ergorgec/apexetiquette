@@ -1,6 +1,7 @@
 ---
-title: Contributing
+title: Contribut
 weight: 6
+bookToc: false
 ---
 
 # Contributing
